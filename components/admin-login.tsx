@@ -78,7 +78,7 @@ export function AdminLogin({ onLogin }: AdminLoginProps) {
           </button>
         </form>
 
-        <p className="text-center text-xs text-muted-foreground mt-6">Test: admin / admin123</p>
+        <p className="text-center text-xs text-muted-foreground mt-6">Suhrob.uz: / KIRSH MUNKUN EMAS</p>
       </div>
     </div>
   )
