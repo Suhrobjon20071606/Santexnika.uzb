@@ -10,7 +10,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Santexnika.uz 24/7 - Santexnika Xizmatları",
   description: "Professional santexnika xizmatları 24/7. Quvur ta'mirlash, o'rnatish, tozalash va boshqa xizmatlar.",
-  generator: "v0.app",
+  generator: "Suhrob.uz",
 }
 
 export default function RootLayout({
